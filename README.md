@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K1ngDiZzY
-- 👀 I’m interested in developing my skills
-- 🌱 I’m currently learning node.js and React
+- 👀 I’m interested in developing my skills as a developer by making apps
+- 🌱 python, node.js, JavaScript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
