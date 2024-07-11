@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @K1ngDiZzY
 - 👀 I’m interested in developing my skills as a developer by making apps
 - 🌱 python, node.js, JavaScript, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+      - python just automating the boring stuff
 
 <!---
 K1ngDiZzY/K1ngDiZzY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
