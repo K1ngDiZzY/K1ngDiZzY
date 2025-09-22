@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @K1ngDiZzY
 - 👀 I’m interested in developing my skills as a developer by making apps
-- 🌱 python, node.js, JavaScript, React
+- 🌱 python, node.js, JavaScript, React, C#
       - python just automating the boring stuff
 
 <!---
